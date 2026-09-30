@@ -1,0 +1,6 @@
+{
+  "name": "Pack Artes Plaquinhas NFC Canva",
+  "description": "Página de vendas premium para pacote de artes de plaquinhas NFC editáveis no Canva por apenas R$ 10,00.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
